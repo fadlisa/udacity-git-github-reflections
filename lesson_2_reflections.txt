@@ -3,3 +3,6 @@ Git tracker files/folders are created and this is needed to be able to track cha
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is the only place you can commit from and allows the flexibility of not committing everything in the working directory/repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+Only put logically related items in the staging area
